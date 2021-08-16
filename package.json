@@ -1,0 +1,33 @@
+{
+  "name": "spense",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.4.0",
+    "autoprefixer": "^10.3.1",
+    "clsx": "^1.1.1",
+    "framer-motion": "^4.1.17",
+    "next": "11.1.0",
+    "next-compose-plugins": "^2.2.1",
+    "next-images": "^1.8.1",
+    "next-pwa": "^5.2.24",
+    "postcss": "^8.2.15",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "tailwindcss": "^2.2.7"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "prettier": "^2.3.2"
+  }
+}
