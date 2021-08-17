@@ -1,4 +1,4 @@
-import '../styles/global.css'
+import '../styles/index.css'
 import Head from 'next/head'
 
 const App = ({ Component, pageProps }) => {
@@ -13,7 +13,7 @@ const App = ({ Component, pageProps }) => {
         />
         <meta name="description" content="Description" />
         <meta name="keywords" content="Keywords" />
-        <title>colored</title>
+        <title>Spense</title>
 
         <link rel="manifest" href="/manifest.json" />
         <link href="/icons/log192.png" rel="icon" type="image/png" />
